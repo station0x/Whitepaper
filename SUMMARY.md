@@ -4,9 +4,8 @@
 
 ## Station Zero X
 
-* [Overview](station-zero-x/overview.md)
-* [Team](station-zero-x/team.md)
 * [Rationale](station-zero-x/rationale.md)
+* [Team](station-zero-x/team.md)
 
 ## Tokenomy
 
