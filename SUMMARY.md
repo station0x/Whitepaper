@@ -4,7 +4,9 @@
 
 ## Station Zero X
 
-* [Page 2](station-zero-x/page-2.md)
+* [Overview](station-zero-x/overview.md)
+* [Team](station-zero-x/team.md)
+* [Rationale](station-zero-x/rationale.md)
 
 ## Tokenomy
 
@@ -12,10 +14,11 @@
 
 ## Games And Technology
 
-* [Page 4](games-and-technology/page-4.md)
+* [🚀 Encounter](games-and-technology/encounter.md)
+* [🔫 FinalCypher](games-and-technology/finalcypher.md)
 
 ## Governance
 
-* [Page 5](governance/page-5.md)
-* [Page 1](governance/page-1.md)
-* [Station Zero X](governance/station-zero-x.md)
+* [Community](governance/community.md)
+* [SZX Token](governance/szx-token/README.md)
+  * [Station Zero X](governance/szx-token/station-zero-x.md)
