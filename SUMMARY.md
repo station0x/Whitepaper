@@ -10,7 +10,9 @@
 
 ## Tokenomy
 
-* [Page 3](tokenomy/page-3.md)
+* [Page 3](tokenomy/page-3/README.md)
+  * [SZX Token](tokenomy/page-3/szx-token/README.md)
+    * [Station Zero X](tokenomy/page-3/szx-token/station-zero-x.md)
 
 ## Games And Technology
 
@@ -19,6 +21,5 @@
 
 ## Governance
 
+* [Decentralized Modding](governance/decentralized-modding.md)
 * [Community](governance/community.md)
-* [SZX Token](governance/szx-token/README.md)
-  * [Station Zero X](governance/szx-token/station-zero-x.md)
