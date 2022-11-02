@@ -10,9 +10,17 @@
 
 ## Tokenomy
 
-* [Page 3](tokenomy/page-3/README.md)
-  * [SZX Token](tokenomy/page-3/szx-token/README.md)
-    * [Station Zero X](tokenomy/page-3/szx-token/station-zero-x.md)
+* [Preface](tokenomy/preface.md)
+* [Core Design](tokenomy/core-design.md)
+* [$SZX Token](tokenomy/szx-token/README.md)
+  * [Token Distribution](tokenomy/szx-token/token-distribution.md)
+  * [Allocation and Vesting Schedule](tokenomy/szx-token/allocation-and-vesting-schedule.md)
+  * [Staking](tokenomy/szx-token/staking.md)
+* [Profitability and Revenue](tokenomy/profitability-and-revenue/README.md)
+  * [Revenue Generation Streams](tokenomy/profitability-and-revenue/revenue-generation-streams.md)
+  * [Value Accrual and Retention](tokenomy/profitability-and-revenue/value-accrual-and-retention.md)
+  * [Revenue Sharing](tokenomy/profitability-and-revenue/revenue-sharing.md)
+* [Game Domestic Economy](tokenomy/game-domestic-economy.md)
 
 ## Games And Technology
 

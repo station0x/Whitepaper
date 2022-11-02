@@ -2,5 +2,5 @@
 description: Overview
 ---
 
-# Station Zero X
+# Staking
 

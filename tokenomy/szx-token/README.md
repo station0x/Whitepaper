@@ -1,0 +1,2 @@
+# $SZX Token
+
