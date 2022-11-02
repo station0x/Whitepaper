@@ -1,4 +1,0 @@
-# FAQs
-
-Work in progress
-

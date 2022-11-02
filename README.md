@@ -1,3 +1,4 @@
-# Getting Started
+# FAQs
 
-Work in Progress
+Work in progress
+
