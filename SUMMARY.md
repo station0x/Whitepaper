@@ -24,10 +24,16 @@
 
 ## Games And Technology
 
-* [🚀 Encounter](games-and-technology/encounter.md)
-* [🔫 FinalCypher](games-and-technology/finalcypher.md)
+* [🚀 Encounter](games-and-technology/encounter/README.md)
+  * [Gameplay](games-and-technology/encounter/gameplay.md)
+  * [Economy and Manufacturing](games-and-technology/encounter/economy-and-manufacturing.md)
+  * [Technology](games-and-technology/encounter/technology.md)
+* [🔫 FinalCypher](games-and-technology/finalcypher/README.md)
+  * [Gameplay](games-and-technology/finalcypher/gameplay.md)
+  * [Copy of Copy of Gameplay](games-and-technology/finalcypher/copy-of-copy-of-gameplay.md)
 
 ## Governance
 
 * [Decentralized Modding](governance/decentralized-modding.md)
 * [Community](governance/community.md)
+* [Treasury](governance/treasury.md)
