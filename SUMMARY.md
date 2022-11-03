@@ -17,7 +17,7 @@
     * [Page 1](tokenomy/szx-token/allocation-and-vesting-schedule/page-1.md)
     * [Copy of Page 1](tokenomy/szx-token/allocation-and-vesting-schedule/copy-of-page-1.md)
     * [Copy of Copy of Page 1](tokenomy/szx-token/allocation-and-vesting-schedule/copy-of-copy-of-page-1.md)
-  * ["FILO" Staking Model](tokenomy/szx-token/filo-staking-model/README.md)
+  * ["FILO" Staking Model](tokenomy/szx-token/staking.md)
     * [Soft Staking](tokenomy/szx-token/filo-staking-model/soft-staking.md)
 * [Profitability and Revenue](tokenomy/profitability-and-revenue/README.md)
   * [Revenue Generation Streams](tokenomy/profitability-and-revenue/revenue-generation-streams.md)

@@ -12,13 +12,17 @@ Station Zero-X is an emerging web3 game developer founded in late 2021 by two ps
 
 on a mission to make Play-to-Earn accessible, competitive, and truly free to play. Station Zero-X aim to develop high-skill cap games that can compete with traditional games while preserving web3 core values like decentralized modding through on-chain governance, player-sovereign game assets, and inflation-controlled game token emission based on player competence.
 
-
-
 Station Zero-X is on a mission to liberate gamers from traditional gaming exploitation by developing fun, open, governable and rewarding games. While allowing players to collectively mod
 
 ## Vision
 
 We&#x20;
+
+
+
+## Values
+
+
 
 ## Games
 

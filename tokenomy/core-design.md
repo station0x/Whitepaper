@@ -16,11 +16,13 @@ Gaming industry problems&#x20;
 
 ## Our 5 pillars
 
-1. **Pure Fun-first.** Games must be intrinsically fun even with no economic incentives.
+1. **Fun-first.** Games must be intrinsically fun even with no economic incentives.
 2. **Sustainable Economy.** Economy should be&#x20;
 3. **Aligned-ecosystem through Long-term Incentivizes.** Team/Community/Investors should be economically incentivized to develop the game through long-term incentives only.
 4. **NFTs with in-game utility.** NFTs should be delivered after game is already validated.
-5. **Separation of Concerns.**  Each game should have its unique-tailored meritocratic player-only owned in-game economy.
+5. **Pure Meritocracy.**  Each game should have its unique-tailored meritocratic player-only owned in-game economy.
+6. **Accessibility.** Games should be free-to-play with no barrier of entry. (No NFTs purchases required)
+7. **Scalable Architecture.** Games architecture should be scaled easily.
 
 ### An Ecosystem
 
