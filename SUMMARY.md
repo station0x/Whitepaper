@@ -2,19 +2,22 @@
 
 * [Overview](README.md)
 
-## Station Zero X
+## Fundamentals
 
-* [Rationale](station-zero-x/rationale.md)
-* [Team](station-zero-x/team.md)
+* [Rationale](fundamentals/rationale.md)
+* [Team](fundamentals/team.md)
 
 ## Tokenomy
 
-* [Preface](tokenomy/preface.md)
+* [Preface: The current Problems](tokenomy/preface-the-current-problems.md)
 * [Core Design](tokenomy/core-design.md)
 * [$SZX Token](tokenomy/szx-token/README.md)
   * [Token Distribution](tokenomy/szx-token/token-distribution.md)
-  * [Allocation and Vesting Schedule](tokenomy/szx-token/allocation-and-vesting-schedule.md)
-  * [Staking](tokenomy/szx-token/staking.md)
+  * [Allocation and Vesting Schedule](tokenomy/szx-token/allocation-and-vesting-schedule/README.md)
+    * [Page 1](tokenomy/szx-token/allocation-and-vesting-schedule/page-1.md)
+    * [Copy of Page 1](tokenomy/szx-token/allocation-and-vesting-schedule/copy-of-page-1.md)
+    * [Copy of Copy of Page 1](tokenomy/szx-token/allocation-and-vesting-schedule/copy-of-copy-of-page-1.md)
+  * ["FILO" Staking Model](tokenomy/szx-token/filo-staking-model.md)
 * [Profitability and Revenue](tokenomy/profitability-and-revenue/README.md)
   * [Revenue Generation Streams](tokenomy/profitability-and-revenue/revenue-generation-streams.md)
   * [Value Accrual and Retention](tokenomy/profitability-and-revenue/value-accrual-and-retention.md)

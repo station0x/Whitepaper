@@ -6,7 +6,7 @@ description: What is Station Zero-X?
 
 ## About
 
-Station Zero-X is an emerging web3 game developer founded in late 2021 by two pseudonyms [Captain Larry and Captain Isaac](station-zero-x/team.md) and backed by a [community](governance/community.md) of gamers and investors on a single mission to create mass-ready high-skill cap decentralized games that can compete with traditional gameplay while inheriting [decentralization core values](station-zero-x/rationale.md).&#x20;
+Station Zero-X is an emerging web3 game developer founded in late 2021 by two pseudonyms [Captain Larry and Captain Isaac](fundamentals/team.md) and backed by a [community](governance/community.md) of gamers and investors on a single mission to create mass-ready high-skill cap decentralized games that can compete with traditional gameplay while inheriting [decentralization core values](fundamentals/rationale.md).&#x20;
 
 ## Mission
 
@@ -14,11 +14,11 @@ on a mission to make Play-to-Earn accessible, competitive, and truly free to pla
 
 
 
-Station Zero-X is on a mission to liberate gamers from traditional gaming exploitation by developing open, governable and rewarding games.
+Station Zero-X is on a mission to liberate gamers from traditional gaming exploitation by developing fun, open, governable and rewarding games. While allowing players to collectively mod
 
 ## Vision
 
-
+We&#x20;
 
 ## Games
 
