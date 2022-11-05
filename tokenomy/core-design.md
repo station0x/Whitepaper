@@ -8,23 +8,7 @@ description: Core Economic Design
 
 Gaming industry problems&#x20;
 
-
-
-1. **A focus on fun first.** People must be intrinsically motivated to play the game because it’s fun.
-2. **A token economy that doesn’t hurt #2.** NFTs and tokens should enhance the core fun loop. Fortnite prints money because it lets people pay to customize their in-game character and items without impacting the balance of the game.
-3. **NFTs that provide real utility.** For example, if the NFTs or tokens that you earn were usable across multiple games, you’ll be less likely to cash out.
-
-## Our 5 pillars
-
-1. **Fun-first.** Games must be intrinsically fun even with no economic incentives.
-2. **Sustainable Economy.** Economy should be&#x20;
-3. **Aligned-ecosystem through Long-term Incentivizes.** Team/Community/Investors should be economically incentivized to develop the game through long-term incentives only.
-4. **NFTs with in-game utility.** NFTs should be delivered after game is already validated.
-5. **Pure Meritocracy.**  Each game should have its unique-tailored meritocratic player-only owned in-game economy.
-6. **Accessibility.** Games should be free-to-play with no barrier of entry. (No NFTs purchases required)
-7. **Scalable Architecture.** Games architecture should be scaled easily.
-
-### An Ecosystem
+### A decentralized ecosystem
 
 Unlike current traditional game industry in which capital is accrued by a central authority which control game development, mechanics and policies. Station Zero-X aim to build an ecosystem of incentivized key decision makers around games.&#x20;
 
@@ -38,6 +22,19 @@ The grand goal of governance is to be:
 
 * Retain accrued value&#x20;
 * Provide long-term incentive for DAO members
+
+## Our core values
+
+1. **Fun-first.** Games must be intrinsically fun even with no economic incentives.
+2. **Sustainable Economy.** In-game economy should be separated from protocol economy.
+3. **Aligned-ecosystem through Long-term Incentivizes.** Team/Community/Investors should be economically incentivized to develop the game through long-term incentives only.
+4. **NFTs with in-game utility.** NFTs should be delivered after game is already validated.
+5. **Pure Meritocracy.**  Each game should have its unique-tailored meritocratic player-only owned in-game economy.
+6. **Accessibility.** Games should be free-to-play with no barrier of entry. (No NFTs purchases required)
+7. **Scalable Architecture.** Games architecture should be scaled easily.
+8. **Agile development.** Emerging game developer should build around players feedback.
+
+###
 
 
 

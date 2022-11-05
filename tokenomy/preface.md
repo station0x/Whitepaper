@@ -12,7 +12,7 @@ The current status of gaming industry contains many flaws that facilitated the w
 
 #### Traditional Gaming
 
-In eyes of many
+Game
 
 #### GameFi
 
