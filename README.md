@@ -6,7 +6,7 @@ description: What is Station Zero-X?
 
 ## About
 
-Station Zero-X is an emerging web3 game developer founded in late 2021 by two pseudonyms [Captain Larry and Captain Isaac](station-zero-x/team.md) and backed by a [community](governance/community.md) of builders, gamers and investors on a single mission to create mass-ready high-skill cap decentralized games that can compete with traditional gameplay while inheriting [decentralization core values](station-zero-x/rationale.md).&#x20;
+Station Zero-X is an emerging web3 game developer founded in late 2021 by two pseudonyms [Captain Larry and Captain Isaac](station-zero-x/team.md) and backed by a [community](station-zero-x/community.md) of builders, gamers and investors on a single mission to create mass-ready high-skill cap decentralized games that can compete with traditional gameplay while inheriting [decentralization core values](station-zero-x/rationale.md).&#x20;
 
 ## Mission
 
@@ -14,15 +14,22 @@ Station Zero-X on a mission to make Play-to-Earn accessible, competitive, and tr
 
 Station Zero-X is on a mission to liberate gamers from traditional gaming exploitation by developing fun, open, governable and rewarding games. While allowing players to collectively mod
 
-## Vision
-
-We&#x20;
+## Our Vision
 
 
 
-## Values
 
 
+## Our core values
+
+1. **Fun-first.** Games must be intrinsically fun even with no economic incentives.
+2. **Sustainable Economy.** In-game economy should be separated from protocol economy.
+3. **Aligned-ecosystem through Long-term Incentivizes.** Team/Community/Investors should be economically incentivized to develop the game through long-term incentives only.
+4. **NFTs with in-game utility.** NFTs should be delivered after game is already validated.
+5. **Pure Meritocracy.**  Each game should have its unique-tailored meritocratic player-only owned in-game economy.
+6. **Accessibility.** Games should be free-to-play with no barrier of entry. (No NFTs purchases required)
+7. **Scalable Architecture.** Games architecture should be scaled easily.
+8. **Agile development.** Emerging game developer should build around players feedback.
 
 ## Games
 
@@ -41,3 +48,14 @@ We&#x20;
 {% endcontent-ref %}
 
 [FinalCypher](games-and-technology/finalcypher/), the team’s most recent P developed and expected to be published late 2022. It's a 5v5 strategic First-Person Shooter game built with Unreal Engine 5.
+
+
+
+## Revenue Model
+
+
+
+
+
+## Governance
+

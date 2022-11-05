@@ -1,11 +1,11 @@
 # Table of contents
 
+## Station Zero X
+
 * [Overview](README.md)
-
-## Fundamentals
-
-* [Rationale](station-zero-x/rationale.md)
 * [Team](station-zero-x/team.md)
+* [Rationale](station-zero-x/rationale.md)
+* [Community](station-zero-x/community.md)
 
 ## Tokenomy
 
@@ -45,5 +45,4 @@
 ## Governance
 
 * [Decentralized Modding](governance/decentralized-modding.md)
-* [Community](governance/community.md)
 * [Treasury](governance/treasury.md)
