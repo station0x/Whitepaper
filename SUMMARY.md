@@ -22,7 +22,7 @@
     * [Unstaking Progressive Taxation](tokenomy/szx-token/filo-staking-model/unstaking-progressive-taxation.md)
   * [Protocol Owned Liquitiy](tokenomy/szx-token/protocol-owned-liquitiy.md)
 * [Profitability and Revenue](tokenomy/profitability-and-revenue/README.md)
-  * [Revenue Generation Streams](tokenomy/profitability-and-revenue/revenue-generation-streams.md)
+  * [Revenue Generation Model](tokenomy/profitability-and-revenue/revenue-generation-model.md)
   * [Value Accrual and Retention](tokenomy/profitability-and-revenue/value-accrual-and-retention.md)
   * [Revenue Sharing](tokenomy/profitability-and-revenue/revenue-sharing.md)
 * [Game Domestic Economy](tokenomy/game-domestic-economy.md)
@@ -30,7 +30,9 @@
 ## Games And Technology
 
 * [🚀 Encounter](games-and-technology/encounter/README.md)
-  * [Gameplay](games-and-technology/encounter/gameplay.md)
+  * [Gameplay](games-and-technology/encounter/gameplay/README.md)
+    * [Game Modes](games-and-technology/encounter/gameplay/game-modes.md)
+    * [Popular Strategies](games-and-technology/encounter/gameplay/popular-strategies.md)
   * [Economy and Manufacturing](games-and-technology/encounter/economy-and-manufacturing.md)
   * [Technology](games-and-technology/encounter/technology.md)
   * [Roadmap](games-and-technology/encounter/roadmap.md)
