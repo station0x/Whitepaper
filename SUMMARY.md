@@ -12,11 +12,8 @@
 * [Preface: The current Problems](tokenomy/preface.md)
 * [Core Design](tokenomy/core-design.md)
 * [$SZX Token](tokenomy/szx-token/README.md)
-  * [Page 1](tokenomy/szx-token/page-1.md)
   * [Copy of Page 1](tokenomy/szx-token/copy-of-page-1.md)
   * [Copy of Page 1](tokenomy/szx-token/copy-of-page-1-1.md)
-  * [Copy of Page 1](tokenomy/szx-token/copy-of-page-1-2.md)
-  * [Copy of Page 1](tokenomy/szx-token/copy-of-page-1-3.md)
   * [Token Distribution](tokenomy/szx-token/token-distribution.md)
   * [Allocation and Vesting Schedule](tokenomy/szx-token/allocation-and-vesting-schedule.md)
     * [Play To Earn](tokenomy/szx-token/allocation-and-vesting-schedule/play-to-earn.md)
@@ -45,7 +42,8 @@
   * [Community and Statistics](games-and-technology/encounter/community-and-statistics.md)
 * [🔫 FinalCypher](games-and-technology/finalcypher/README.md)
   * [Gameplay](games-and-technology/finalcypher/gameplay.md)
-  * [Copy of Copy of Gameplay](games-and-technology/finalcypher/copy-of-copy-of-gameplay.md)
+  * [Roadmap](games-and-technology/finalcypher/roadmap.md)
+  * [Technology](games-and-technology/finalcypher/technology.md)
 
 ## Governance
 
