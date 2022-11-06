@@ -4,15 +4,25 @@
 
 ## Problems
 
-The current status of gaming industry contains many flaws that facilitated the way for Web3 games offer a solution.&#x20;
+Aside from commonly known current [centralized games](preface.md#traditional-gaming) architectures flaws, current solutions ([**GameFi**](preface.md#gamefi)) also lack core features and are prone fundamental mistakes.
 
-#### Traditional Gaming
 
-Game
 
-#### GameFi
+#### Traditional Gaming Flaws
+
+Traditionally, centralized games existed since the initial&#x20;
+
+#### Our take on GameFi
 
 In eyes of many web3 games still not there, and by some is just in its infancy. One can argue easily that infinitely issuance of in-game assets that can have real monetary value is just another [Ponzi](https://www.producthunt.com/stories/is-play-to-earn-gaming-a-ponzi-scheme).&#x20;
+
+
+
+Current crypto games lacks three core cornerstones that make traditional games superior compared to them.
+
+* **Barrier of Entry.**&#x20;
+* **Low-skill ceiling and shallow gameplay.**
+* **Unsustainable in-game economy.**
 
 Unlike many web 3.0 gaming projects want you to believe, problems of video game industry are not limited to lack of tradable assets or tokens and it is most definitely _**not**_ being compensated for playing a video game (P2E?! lmao it's a ponzi maxed out). These self made problems are created only to extract value out of players without overcoming major issues in the industry.
 

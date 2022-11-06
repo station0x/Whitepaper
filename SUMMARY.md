@@ -4,7 +4,6 @@
 
 * [Overview](README.md)
 * [Team](station-zero-x/team.md)
-* [Rationale](station-zero-x/rationale.md)
 * [Community](station-zero-x/community.md)
 
 ## Tokenomy
@@ -12,8 +11,6 @@
 * [Preface: The current Problems](tokenomy/preface.md)
 * [Core Design](tokenomy/core-design.md)
 * [$SZX Token](tokenomy/szx-token/README.md)
-  * [Copy of Page 1](tokenomy/szx-token/copy-of-page-1.md)
-  * [Copy of Page 1](tokenomy/szx-token/copy-of-page-1-1.md)
   * [Token Distribution](tokenomy/szx-token/token-distribution.md)
   * [Allocation and Vesting Schedule](tokenomy/szx-token/allocation-and-vesting-schedule.md)
     * [Play To Earn](tokenomy/szx-token/allocation-and-vesting-schedule/play-to-earn.md)
@@ -30,6 +27,11 @@
   * [Revenue Sharing](tokenomy/profitability-and-revenue/revenue-sharing.md)
 * [Game Domestic Economy](tokenomy/game-domestic-economy.md)
 
+## Governance
+
+* [Decentralized Modding](governance/decentralized-modding.md)
+* [Treasury](governance/treasury.md)
+
 ## Games And Technology
 
 * [🚀 Encounter](games-and-technology/encounter/README.md)
@@ -44,8 +46,3 @@
   * [Gameplay](games-and-technology/finalcypher/gameplay.md)
   * [Roadmap](games-and-technology/finalcypher/roadmap.md)
   * [Technology](games-and-technology/finalcypher/technology.md)
-
-## Governance
-
-* [Decentralized Modding](governance/decentralized-modding.md)
-* [Treasury](governance/treasury.md)
