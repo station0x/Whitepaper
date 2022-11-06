@@ -1,7 +1,3 @@
----
-description: The current problems and the solution we bring
----
-
 # Preface: The current Problems
 
 

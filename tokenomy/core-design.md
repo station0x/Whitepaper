@@ -8,6 +8,8 @@ description: Core Economic Design
 
 Gaming industry problems&#x20;
 
+Station ZeroX aim to&#x20;
+
 ### A decentralized ecosystem
 
 Unlike current traditional game industry in which capital is accrued by a central authority which control game development, mechanics and policies. Station Zero-X aim to build an ecosystem of incentivized key decision makers around games.&#x20;
