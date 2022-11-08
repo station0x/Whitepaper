@@ -12,11 +12,15 @@
 * [Core Design](tokenomy/core-design.md)
 * [$SZX Token](tokenomy/szx-token/README.md)
   * [Token Distribution](tokenomy/szx-token/token-distribution.md)
-  * [Allocation and Vesting Schedule](tokenomy/szx-token/allocation-and-vesting-schedule.md)
-    * [Play To Earn](tokenomy/szx-token/allocation-and-vesting-schedule/play-to-earn.md)
-    * [Staking](tokenomy/szx-token/allocation-and-vesting-schedule/staking.md)
-    * [Private Sale](tokenomy/szx-token/allocation-and-vesting-schedule/private-sale.md)
-    * [Community Rewards](tokenomy/szx-token/allocation-and-vesting-schedule/community-rewards.md)
+  * [Release and Vesting Schedule](tokenomy/szx-token/release-and-vesting-schedule/README.md)
+    * [Play To Earn](tokenomy/szx-token/release-and-vesting-schedule/play-to-earn.md)
+    * [Staking](tokenomy/szx-token/release-and-vesting-schedule/staking.md)
+    * [Treasury](tokenomy/szx-token/release-and-vesting-schedule/treasury.md)
+    * [Games Tokens Staking](tokenomy/szx-token/release-and-vesting-schedule/games-tokens-staking.md)
+    * [Callisto-6 NFT minters](tokenomy/szx-token/release-and-vesting-schedule/callisto-6-nft-minters.md)
+    * [Team](tokenomy/szx-token/release-and-vesting-schedule/team.md)
+    * [Private Investors](tokenomy/szx-token/release-and-vesting-schedule/private-investors.md)
+    * [Community Incentives and Rewards](tokenomy/szx-token/release-and-vesting-schedule/community-incentives-and-rewards.md)
   * ["FILO" Staking Model](tokenomy/szx-token/staking.md)
     * [Soft Staking](tokenomy/szx-token/filo-staking-model/soft-staking.md)
     * [Unstaking Progressive Taxation](tokenomy/szx-token/filo-staking-model/unstaking-progressive-taxation.md)
@@ -30,6 +34,7 @@
 ## Governance
 
 * [Decentralized Modding](governance/decentralized-modding.md)
+* [Decentralized Autonomous Games (DAGs)](governance/decentralized-autonomous-games-dags.md)
 * [Treasury](governance/treasury.md)
 
 ## Games And Technology

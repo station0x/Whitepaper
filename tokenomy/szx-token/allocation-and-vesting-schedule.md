@@ -1,2 +1,0 @@
-# Allocation and Vesting Schedule
-
