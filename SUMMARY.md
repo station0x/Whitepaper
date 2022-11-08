@@ -10,11 +10,11 @@
 
 * [Preface: The current Problems](tokenomy/preface.md)
 * [Core Design](tokenomy/core-design.md)
-* [$SZX Token](tokenomy/szx-token/README.md)
+* [$SZX - Station Zero X Token](tokenomy/szx-token/README.md)
   * [Token Distribution](tokenomy/szx-token/token-distribution.md)
   * [Release and Vesting Schedule](tokenomy/szx-token/release-and-vesting-schedule/README.md)
     * [Play To Earn](tokenomy/szx-token/release-and-vesting-schedule/play-to-earn.md)
-    * [Governance Token Staking](tokenomy/szx-token/release-and-vesting-schedule/governance-token-staking.md)
+    * [Governance Token Staking](tokenomy/szx-token/release-and-vesting-schedule/staking.md)
     * [Treasury](tokenomy/szx-token/release-and-vesting-schedule/treasury.md)
     * [Games Tokens Staking](tokenomy/szx-token/release-and-vesting-schedule/games-tokens-staking.md)
     * [Callisto-6 NFT minters](tokenomy/szx-token/release-and-vesting-schedule/callisto-6-nft-minters.md)
@@ -33,6 +33,7 @@
 
 ## Governance
 
+* [The Ecosystem](governance/the-ecosystem.md)
 * [Decentralized Modding](governance/decentralized-modding.md)
 * [Decentralized Autonomous Games (DAGs)](governance/decentralized-autonomous-games-dags.md)
 * [Treasury](governance/treasury.md)
