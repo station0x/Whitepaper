@@ -14,7 +14,7 @@
   * [Token Distribution](tokenomy/szx-token/token-distribution.md)
   * [Release and Vesting Schedule](tokenomy/szx-token/release-and-vesting-schedule/README.md)
     * [Play To Earn](tokenomy/szx-token/release-and-vesting-schedule/play-to-earn.md)
-    * [Staking](tokenomy/szx-token/release-and-vesting-schedule/staking.md)
+    * [Governance Token Staking](tokenomy/szx-token/release-and-vesting-schedule/governance-token-staking.md)
     * [Treasury](tokenomy/szx-token/release-and-vesting-schedule/treasury.md)
     * [Games Tokens Staking](tokenomy/szx-token/release-and-vesting-schedule/games-tokens-staking.md)
     * [Callisto-6 NFT minters](tokenomy/szx-token/release-and-vesting-schedule/callisto-6-nft-minters.md)
