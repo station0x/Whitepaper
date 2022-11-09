@@ -7,6 +7,21 @@
 * [Community](station-zero-x/community.md)
 * [Roadmap and Milestones](station-zero-x/roadmap-and-milestones.md)
 
+## Games And Technology
+
+* [🚀 Encounter](games-and-technology/encounter/README.md)
+  * [Gameplay](games-and-technology/encounter/gameplay/README.md)
+    * [Game Modes](games-and-technology/encounter/gameplay/game-modes.md)
+    * [Popular Strategies](games-and-technology/encounter/gameplay/popular-strategies.md)
+  * [Economy and Manufacturing](games-and-technology/encounter/economy-and-manufacturing.md)
+  * [Technology](games-and-technology/encounter/technology.md)
+  * [Roadmap](games-and-technology/encounter/roadmap.md)
+  * [Community and Statistics](games-and-technology/encounter/community-and-statistics.md)
+* [🔫 FinalCypher](games-and-technology/finalcypher/README.md)
+  * [Gameplay](games-and-technology/finalcypher/gameplay.md)
+  * [Roadmap](games-and-technology/finalcypher/roadmap.md)
+  * [Technology](games-and-technology/finalcypher/technology.md)
+
 ## Tokenomy
 
 * [Preface: The current Problems](tokenomy/preface.md)
@@ -38,18 +53,3 @@
 * [Decentralized Modding](governance/decentralized-modding.md)
 * [Decentralized Autonomous Games (DAGs)](governance/decentralized-autonomous-games-dags.md)
 * [Treasury](governance/treasury.md)
-
-## Games And Technology
-
-* [🚀 Encounter](games-and-technology/encounter/README.md)
-  * [Gameplay](games-and-technology/encounter/gameplay/README.md)
-    * [Game Modes](games-and-technology/encounter/gameplay/game-modes.md)
-    * [Popular Strategies](games-and-technology/encounter/gameplay/popular-strategies.md)
-  * [Economy and Manufacturing](games-and-technology/encounter/economy-and-manufacturing.md)
-  * [Technology](games-and-technology/encounter/technology.md)
-  * [Roadmap](games-and-technology/encounter/roadmap.md)
-  * [Community and Statistics](games-and-technology/encounter/community-and-statistics.md)
-* [🔫 FinalCypher](games-and-technology/finalcypher/README.md)
-  * [Gameplay](games-and-technology/finalcypher/gameplay.md)
-  * [Roadmap](games-and-technology/finalcypher/roadmap.md)
-  * [Technology](games-and-technology/finalcypher/technology.md)
