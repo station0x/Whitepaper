@@ -12,4 +12,9 @@ description: Web-browser space-themed PvP board strategy game
 
 Gameplay
 
-Mainly, the gameplay consists of two different modes; First, players can compete in the[ Ranked Mode](gameplay/game-modes.md) for gaining more rewards, and &#x20;
+Mainly, the gameplay consists of two different modes; First, players can compete in the[ Ranked Mode](gameplay/game-modes.md) for gaining more rewards, ...
+
+
+
+
+
