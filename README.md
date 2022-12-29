@@ -6,28 +6,22 @@ description: What is Station Zero-X?
 
 ## About
 
-Station Zero-X is an emerging web3 game studio founded in late 2021 by two pseudonyms [Captain Larry and Captain Isaac](station-zero-x/team.md) and backed by a [community](station-zero-x/community.md) of builders, gamers and investors on a single mission to create mass-ready high-skill cap decentralized games that can compete with traditional gameplay while inheriting [decentralization core values](broken-reference).&#x20;
-
-## Mission
-
-Station Zero-X aims to develop free-to-play P2E high-skill cap games that can compete with traditional games while adding web3 core values, like [decentralized modding](governance/decentralized-modding.md), through on-chain governance, player-sovereign game assets, and [inflation-controlled](broken-reference) game token emission based on player competence.
-
-Station Zero-X is on a **mission to liberate gamers from traditional gaming exploitation** by developing fun, open, governable and rewarding games.
+Station Zero-X is an emerging web3 game studio founded in late 2021 by the two pseudonyms [Captain Larry and Captain Isaac](station-zero-x/team.md). It is backed by a [community](station-zero-x/community.md) of builders, gamers, and investors on a single mission to create competitive, free-to-play, play-to-earn games that can compete with traditional games while maintaining core web3 [values](./#our-core-values) such as decentralized modding, community governance, player-sovereign game assets, and inflation controlled game tokens.
 
 ## Our Vision
 
-We imagine players empowered by getting their fair share of value from gaming and having the ability to collectively govern their immersive experiences.
+Station Zero-X is on a mission to liberate gamers from traditional gaming exploitation by developing free, rewarding, and governable games. Our goal is to empower players by providing them with rewards that are based solely on skill, as well as by giving them the ability to control and balance the games through on-chain governance.
 
 ## Our core values
 
-1. **Fun-first.** Games must be intrinsically fun even with no economic incentives.
-2. **Sustainable Economy.** In-game economy should be separated from protocol economy.
-3. **Aligned-ecosystem through Long-term Incentivizes.** Team/Community/Investors should be economically incentivized to develop the game through long-term incentives only.
-4. **NFTs with in-game utility.** NFTs should be delivered after game is already validated.
-5. **Pure Meritocracy.**  Each game should have its unique-tailored meritocratic player-only owned in-game economy.
-6. **Accessibility.** Games should be free-to-play with no barrier of entry. (No NFTs purchases required)
-7. **Scalable Architecture.** Games architecture should be scaled easily.
-8. **Agile development.** Emerging game developer should build around players feedback.
+1. **Games First, Investment Second:** We’re tired of P2E gaming being just about investment. Our games prioritize competitive strategy and game mechanics over cute NFTs.
+2. **Sustainable Economy:** Sustainable economies are the backbone of successful games. In many games, inflation and an unbalanced economy ruin the player experience. We always have inflation control and balance in mind.
+3. **Long-Term Incentives:** We reward our lifeblood: the players. Focusing on long-term incentives, we keep the player base aligned with our goals and the success of the in-game universe.
+4. **Purposeful NFTs:** We don’t create NFTs just for the sake of having them. Our NFTs are manufactured with in-game utilities and serve specific purposes.
+5. **Pure Meritocracy:**  Each game will have a player-based meritocratic governance system where the most skillful gaming elites will stand at the top of the governance pyramid.
+6. **Accessibility:** Our games are accessible, optimized, and won’t keep you waiting around for days on end in order to verify transactions. Start playing for free within a few clicks!
+7. **Scalable Architecture:** Our game architecture is fully scalable. Our games will run smoothly regardless of player count and other issues web3 games face.
+8. **We Understand Games:** We have a highly experienced and involved team who takes the player base's concerns to heart, after all, we love games too!
 
 ## Games
 
@@ -35,7 +29,7 @@ We imagine players empowered by getting their fair share of value from gaming an
 [encounter](games-and-technology/encounter/)
 {% endcontent-ref %}
 
-[Encounter](games-and-technology/encounter/) is the first game developed by Station Zero-X, is a browser-based, space-themed PvP game similar to chess with on-chain economy and manufacturing
+Encounter, the first game developed by Station Zero-X, is a browser-based PvP game similar to chess but with a galactic twist. &#x20;
 
 
 
@@ -45,7 +39,7 @@ We imagine players empowered by getting their fair share of value from gaming an
 [finalcypher](games-and-technology/finalcypher/)
 {% endcontent-ref %}
 
-[FinalCypher](games-and-technology/finalcypher/), the team’s most recent P developed and expected to be published late 2022. It's a 5v5 strategic First-Person Shooter game built with Unreal Engine 5.
+[FinalCypher](games-and-technology/finalcypher/), the team’s second game, is currently being developed with Unreal Engine 5 and is expected to be published in late 2022. It features a futuristic cyberpunk theme and combines popular aspects of CS-GO and Valorant to create the ultimate First Person Shooter (FPS) game.
 
 
 

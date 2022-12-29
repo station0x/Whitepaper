@@ -12,7 +12,7 @@ Staking as a mechanism "in moderate usage" did a good job of absorbing market sh
 
 
 
-* **Staking should be not timed to avoid schelling-based sell-offs.**&#x20;
+* **Staking should be not timed to avoid Schelling-based sell-offs.**&#x20;
 * Staking should encourage long-term gain than short-term ones.
 * Greedy stackers penalty.
 *
