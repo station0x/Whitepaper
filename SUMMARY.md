@@ -7,7 +7,7 @@
 * [Community](station-zero-x/community.md)
 * [Roadmap and Milestones](station-zero-x/roadmap-and-milestones.md)
 
-## Games And Technology
+## 🎮 Games And Technology
 
 * [🚀 Encounter](games-and-technology/encounter/README.md)
   * [Gameplay](games-and-technology/encounter/gameplay/README.md)
@@ -22,7 +22,7 @@
   * [Roadmap](games-and-technology/finalcypher/roadmap.md)
   * [Technology](games-and-technology/finalcypher/technology.md)
 
-## Tokenomy
+## 💰 Tokenomy
 
 * [Preface: The current Problems](tokenomy/preface.md)
 * [Core Design](tokenomy/core-design.md)
@@ -47,7 +47,7 @@
   * [Revenue Sharing](tokenomy/profitability-and-revenue/revenue-sharing.md)
 * [Game Domestic Economy](tokenomy/game-domestic-economy.md)
 
-## Governance
+## 🧑⚖ Governance
 
 * [The Ecosystem](governance/the-ecosystem.md)
 * [Decentralized Modding](governance/decentralized-modding.md)

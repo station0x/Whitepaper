@@ -6,13 +6,11 @@ description: Web-browser space-themed PvP board strategy game
 
 <figure><img src="../../.gitbook/assets/FI5hnbqX0AQ-aMw.png" alt=""><figcaption></figcaption></figure>
 
-[Encounter](https://encounter.station0x.com) is a space-themed 1v1 strategy game similar to chess. It launched in late 2021 and has attracted more than 2,500 [players](community-and-statistics.md) since its closed beta launch.
+[Encounter](https://encounter.station0x.com) is a PvP space-themed strategy board game, similar to chess, that runs in browser. It launched in late 2021 and attracted more than 2,500 [players](https://www.notion.so/games-and-technology/encounter/community-and-statistics) during its closed beta launch.
 
+Encounter is a chess-like strategy game with a sci-fi twist! Don’t know how to play chess? Don’t worry! Encounter offers a straightforward ruleset and objective. In this game, the objective is to destroy the enemy base with your spaceship pieces while keeping your own base secure. The game is easy to pick up, but the many unique spaceship abilities create an endless amount of strategy waiting to be discovered!
 
-
-Gameplay
-
-Mainly, the gameplay consists of two different modes; First, players can compete in the[ Ranked Mode](gameplay/game-modes.md) for gaining more rewards, ...
+Encounter has picked up **+2100 players** since its alpha launch and is growing.
 
 
 
