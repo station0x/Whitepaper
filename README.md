@@ -29,7 +29,7 @@ Station Zero-X is on a mission to liberate gamers from traditional gaming exploi
 [encounter](games-and-technology/encounter/)
 {% endcontent-ref %}
 
-Encounter, the first game developed by Station Zero-X, is a browser-based PvP game similar to chess but with a galactic twist. &#x20;
+Encounter, the first game developed by Station Zero-X, is a browser-based 1v1 game similar to chess but with a galactic twist. &#x20;
 
 
 

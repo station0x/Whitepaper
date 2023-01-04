@@ -1,8 +1,8 @@
 # Token Distribution
 
-The total supply cap is maxed at **300,000,000** $SZX tokens with no possibility of future inflation. The tokes are distributed to the below beneficiary segments as the beneficiary stakeholders.&#x20;
+<figure><img src="../../.gitbook/assets/$SZX Token distribution by beneficiary segment (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/$SZX Token distribution by beneficiary segment (2).svg" alt=""><figcaption></figcaption></figure>
+The total supply cap is maxed at **300,000,000** $SZX tokens with no possibility of future inflation. The tokes are distributed to the below beneficiary segments as the beneficiary stakeholders.&#x20;
 
 | Beneficiary Segment                           | Percentage  | Total Supply |
 | --------------------------------------------- | :---------: | :----------: |
