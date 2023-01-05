@@ -6,16 +6,16 @@ The total supply cap is maxed at **300,000,000** $SZX tokens with no possibility
 
 | Beneficiary Segment                           | Percentage  | Total Supply |
 | --------------------------------------------- | :---------: | :----------: |
-| Play to Earn                                  |      8%     |  24,000,000  |
-| Treasury                                      |     18%     |  54,000,000  |
-| Long-term holding compensation (FILO Staking) |     21%     |  63,000,000  |
-| Private Investors                             |      9%     |  27,000,000  |
+| Play to Earn                                  |     7.5%    |  22,500,000  |
+| Treasury                                      |     17%     |  51,000,000  |
+| Long-term holding compensation (FILO Staking) |    19.5%    |  58,500,000  |
+| Private Investors                             |    14.5%    |  27,000,000  |
 | Game Tokens Staking                           |      5%     |  15,000,000  |
 | Callisto-6 NFT Minters                        |      4%     |  12,000,000  |
 | Launchpads                                    |      3%     |   9,000,000  |
 | Advisors                                      |      2%     |   6,000,000  |
 | Team                                          |     18%     |  54,000,000  |
-| Community Incentives                          |     12%     |  36,000,000  |
+| Community Incentives                          |     11%     |  36,000,000  |
 | Total                                         |     100%    |  300,000,000 |
 
 

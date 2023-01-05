@@ -1,16 +1,24 @@
 ---
-description: What is Station Zero-X?
+description: What is Station Zero X ?
 ---
 
 # Overview
 
+Station Zero X is a web3 gaming studio on a mission to bring gaming adoption to blockchain. We develop high-tier games on top of blockchain technology.
+
+Gaming industry is huge, crypto games aren't yet. Our key insight is that gamers expect more with buying less, existing crypto games lack core games value propositions while limiting access with high paywalls.
+
+We combine the best of both worlds by creating competitive, sustainable and free crypto games.
+
+Our go to market strategy is to maximize adoption by eliminating paywalls from our games. We profit from cosmetics in-game purchases.
+
 ## About
 
-Station Zero-X is an emerging web3 game studio founded in late 2021 by the two pseudonyms [Captain Larry and Captain Isaac](station-zero-x/team.md). It is backed by a [community](station-zero-x/community.md) of builders, gamers, and investors on a single mission to create competitive, free-to-play, play-to-earn games that can compete with traditional games while maintaining core web3 [values](./#our-core-values) such as decentralized modding, community governance, player-sovereign game assets, and inflation controlled game tokens.
+Station Zero X is an emerging web3 game studio founded in late 2021 by the two pseudonyms [Captain Larry and Captain Isaac](station-zero-x/team.md). It is backed by a [community](station-zero-x/community.md) of builders, gamers, and investors on a single mission to create competitive, free-to-play, play-to-earn games that can compete with traditional games while maintaining core web3 [values](./#our-core-values) such as decentralized modding, community governance, player-sovereign game assets, and inflation controlled game tokens.
 
 ## Our Vision
 
-Station Zero-X is on a mission to liberate gamers from traditional gaming exploitation by developing free, rewarding, and governable games. Our goal is to empower players by providing them with rewards that are based solely on skill, as well as by giving them the ability to control and balance the games through on-chain governance.
+Station Zero X is on a mission to liberate gamers from traditional gaming exploitation by developing free, rewarding, and governable games. Our goal is to empower players by providing them with rewards that are based solely on skill, as well as by giving them the ability to control and balance the games through on-chain governance.
 
 ## Our core values
 

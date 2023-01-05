@@ -8,7 +8,7 @@ SZX will be release in a pre-determined schedule which lasts for 60 months from 
 
 The initial circulating supply is set to 3,516,667 SZX - **2.67%** of the total supply and will be released gradually each month.
 
-<figure><img src="../../../.gitbook/assets/chart.svg" alt=""><figcaption><p>Illustrates the maximum possible issuance of SZX over the coming years, and the total supply will never exceed <strong>300,000,000.</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/chart (2) (1).svg" alt=""><figcaption><p>Illustrates the maximum possible issuance of SZX over the coming years, and the total supply will never exceed <strong>300,000,000.</strong></p></figcaption></figure>
 
 | Private Sale (A)       | 5% TGE, 4m cliff, 10% TGE + 12m vest    |
 | ---------------------- | --------------------------------------- |
