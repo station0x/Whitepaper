@@ -6,7 +6,7 @@ description: Game stats are modifiable by Station Zero X community
 
 <figure><img src="../.gitbook/assets/Dodding.drawio (3).svg" alt=""><figcaption></figcaption></figure>
 
-Ideally decentralized a
+Ideally a fully decentralized game should be&#x20;
 
 
 

@@ -4,7 +4,6 @@
 
 * [Overview](README.md)
 * [Team](station-zero-x/team.md)
-* [Community](station-zero-x/community.md)
 * [Roadmap and Milestones](station-zero-x/roadmap-and-milestones.md)
 
 ## 🎮 Games And Technology
@@ -22,6 +21,7 @@
   * [Gameplay](games-and-technology/finalcypher/gameplay.md)
   * [Roadmap](games-and-technology/finalcypher/roadmap.md)
   * [Technology](games-and-technology/finalcypher/technology.md)
+  * [Revenue Streams](games-and-technology/finalcypher/revenue-streams.md)
 
 ## 💰 Tokenomy
 
