@@ -8,7 +8,7 @@ description: Core Team
 
 ![](<../.gitbook/assets/Rectangle 908.png>)
 
-Co-founder, responsible for Full-stack web3 development/Game development.
+Co-founder, responsible for Full-stack web3 development and game development.
 
 8 years of experience, including 5 years in web3. His main expertise is in EVM-based blockchain, Solidity, and Dapps.
 
@@ -38,7 +38,7 @@ Is a passionate marketing professional with experience in growing a $14M protoco
 
 ![](<../.gitbook/assets/Rectangle 911 (1).png>)
 
-Community Manger / Bot Dev&#x20;
+Community Manager / Bot Dev&#x20;
 
 
 

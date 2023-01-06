@@ -11,8 +11,9 @@
 
 * [🚀 Encounter](games-and-technology/encounter/README.md)
   * [Gameplay](games-and-technology/encounter/gameplay/README.md)
-    * [Game Modes](games-and-technology/encounter/gameplay/game-modes.md)
-    * [Popular Strategies](games-and-technology/encounter/gameplay/popular-strategies.md)
+    * [Page 1](games-and-technology/encounter/gameplay/page-1.md)
+    * [Spaceships](games-and-technology/encounter/gameplay/spaceships.md)
+    * [Page 2](games-and-technology/encounter/gameplay/page-2.md)
   * [Economy and Manufacturing](games-and-technology/encounter/economy-and-manufacturing.md)
   * [Technology](games-and-technology/encounter/technology.md)
   * [Roadmap](games-and-technology/encounter/roadmap.md)
