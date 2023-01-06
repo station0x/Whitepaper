@@ -12,7 +12,7 @@ SZX is designed to yield long-term rewards while empowering its holder to govern
 
 SZX provides its holders with the following:&#x20;
 
-1. **Voting Power.** Used in governing the ecosystem.
+1. **Voting power.** Used in governing the ecosystem.
 2. **Revenue sharing rights.**
 3.
 

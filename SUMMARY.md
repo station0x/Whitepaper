@@ -40,7 +40,7 @@
   * ["FILO" Staking Model](tokenomy/szx-token/staking.md)
     * [Soft Staking](tokenomy/szx-token/filo-staking-model/soft-staking.md)
     * [Unstaking Progressive Taxation](tokenomy/szx-token/filo-staking-model/unstaking-progressive-taxation.md)
-  * [Protocol Owned Liquitiy](tokenomy/szx-token/protocol-owned-liquitiy.md)
+  * [Protocol Owned Liquidity](tokenomy/szx-token/protocol-owned-liquidity.md)
 * [Profitability and Revenue](tokenomy/profitability-and-revenue/README.md)
   * [Revenue Generation Model](tokenomy/profitability-and-revenue/revenue-generation-model.md)
   * [Value Accrual and Retention](tokenomy/profitability-and-revenue/value-accrual-and-retention.md)
