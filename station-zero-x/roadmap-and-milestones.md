@@ -1,18 +1,21 @@
 # Roadmap and Milestones
 
-## Q4 - 2021: Bootstrapping
+## Q4 - 2021: Genesis and Crowdfunding
 
 * [x] Mid-Sep, 2021. Callisto-6 Spaceships sale
 * [x] Late-Sep, 2021. Post-sale Spaceships Reveal
 * [x] Mid-Nov, 2021. Game Development Roadmap
-* [x] Late-Dec 2021: MVG (Minimal Viable Game) Announcement first draft of Encounter Game
-* [x] Q1 of 2022 : Initial alpha version of the game + Early Access.
-* [x] Start of Apr 2022 : launching Encounter leaderboard
-* [x] May 2022 : launching the first phase of the economy, play to earn with non transferable tokens ( 4 on chain tokens )
+* [x] Late-Dec 2021: MVG (Minimal Viable Game) Announcement of Encounter Game and spec
 
-## Q2,Q3 - 2022: FinalCypher
+## Q1 - 2022:  Encounter Bootstrapping
 
-* [x] &#x20;We started working on FPS game (the first networked game on the market)
+* [x] The initial alpha version of the game + Early Access.
+* [x] Launching Encounter ranking, leaderboard, and P2E
+* [x] &#x20;Launching the first phase of the economy, play to earn with non-transferable tokens&#x20;
+
+## Q2 - 2022: FinalCypher
+
+* [x] We started working on FPS game (the first networked game on the market)
 * [x] Core FPS mechanics
 * [x] 5 unique game characters
 * [x] First map
@@ -20,7 +23,15 @@
 * [x] Matchmaking
 * [x] Fully functional internal build
 
+## Q3 - 2022: FinalCypher
 
+* [x] We started working on an FPS game (the first networked game on the market)
+* [x] Core FPS mechanics
+* [x] 5 unique game characters
+* [x] First map
+* [x] Dedicated Multiplayer Server
+* [x] Matchmaking
+* [x] Fully functional internal build
 
 ## Q4 - 2022: Closed alpha stage
 
@@ -41,7 +52,7 @@
 
 **Product:**
 
-* [ ] K2E: Leaderboard, battle pass and ranking system
+* [ ] K2E: Leaderboard, battle pass, and ranking system
 * [ ] Weapon skin NFTs
 * [ ] Non-transferable token rewards
 * [ ] Game skins store

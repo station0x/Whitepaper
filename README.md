@@ -4,17 +4,15 @@ description: What is Station Zero X ?
 
 # Overview
 
-Station Zero X is a web3 gaming studio on a mission to bring gaming adoption to blockchain. We develop high-tier games on top of blockchain technology.
+Station Zero X is a web3 gaming studio on a mission to bring gaming adoption to the blockchain. We develop high-tier games on top of blockchain technology.
 
-Gaming industry is huge, crypto games aren't yet. Our key insight is that gamers expect more with buying less, existing crypto games lack core games value propositions while limiting access with high paywalls.
+The gaming industry is huge, crypto games aren't yet. Our key insight is: **gamers expect more by buying less.** Existing crypto games lack core game value propositions while limiting access with high paywalls.
 
-We combine the best of both worlds by creating competitive, sustainable and free crypto games.
-
-Our go to market strategy is to maximize adoption by eliminating paywalls from our games. We profit from cosmetics in-game purchases.
+We combine the best of both worlds by creating competitive, sustainable and free crypto games. Our go-to-market strategy is to maximize adoption by eliminating paywalls from our games. We profit from cosmetics in-game purchases.
 
 ## About
 
-Station Zero X is an emerging web3 game studio founded in late 2021 by the two pseudonyms [Captain Larry and Captain Isaac](station-zero-x/team.md). It is backed by a [community](station-zero-x/community.md) of builders, gamers, and investors on a single mission to create competitive, free-to-play, play-to-earn games that can compete with traditional games while maintaining core web3 [values](./#our-core-values) such as decentralized modding, community governance, player-sovereign game assets, and inflation controlled game tokens.
+Station Zero X is an emerging web3 game studio founded in late 2021 by the two pseudonyms [Captain Larry and Captain Isaac](station-zero-x/team.md). It is backed by a community of builders, gamers, and investors on a single mission to create competitive, free-to-play, play-to-earn games that can compete with traditional games while maintaining core web3 [values](./#our-core-values) such as decentralized modding, community governance, player-sovereign game assets, and inflation controlled game tokens.
 
 ## Our Vision
 
@@ -27,7 +25,7 @@ Station Zero X is on a mission to liberate gamers from traditional gaming exploi
 3. **Long-Term Incentives:** We reward our lifeblood: the players. Focusing on long-term incentives, we keep the player base aligned with our goals and the success of the in-game universe.
 4. **Purposeful NFTs:** We don’t create NFTs just for the sake of having them. Our NFTs are manufactured with in-game utilities and serve specific purposes.
 5. **Pure Meritocracy:**  Each game will have a player-based meritocratic governance system where the most skillful gaming elites will stand at the top of the governance pyramid.
-6. **Accessibility:** Our games are accessible, optimized, and won’t keep you waiting around for days on end in order to verify transactions. Start playing for free within a few clicks!
+6. **Accessibility:** Our games are accessible, and optimized, and won’t keep you waiting around for days on end in order to verify transactions. Start playing for free within a few clicks!
 7. **Scalable Architecture:** Our game architecture is fully scalable. Our games will run smoothly regardless of player count and other issues web3 games face.
 8. **We Understand Games:** We have a highly experienced and involved team who takes the player base's concerns to heart, after all, we love games too!
 

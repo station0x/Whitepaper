@@ -45,7 +45,6 @@
 * [Profitability and Revenue](tokenomy/profitability-and-revenue/README.md)
   * [Revenue Generation Model](tokenomy/profitability-and-revenue/revenue-generation-model.md)
   * [Value Accrual and Retention](tokenomy/profitability-and-revenue/value-accrual-and-retention.md)
-  * [Revenue Sharing](tokenomy/profitability-and-revenue/revenue-sharing.md)
 * [Game Domestic Economy](tokenomy/game-domestic-economy.md)
 
 ## 🧑⚖ Governance
