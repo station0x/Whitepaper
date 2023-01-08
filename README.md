@@ -47,11 +47,3 @@ Encounter, the first game developed by Station Zero-X, is a browser-based 1v1 ga
 
 
 
-## Revenue Model
-
-
-
-
-
-## Governance
-
