@@ -70,7 +70,7 @@ description: FinalCypher Roadmap for 2023
 
 ## Q4 - 2023: Encounter Manufacturing & FC Marketing
 
-* [x] Open the tokens transferability
+* [ ] Open the tokens transferability
 * [ ] Launch Encounter Factory
 * [ ] Launch Encounter Refinery
 * [ ] FinalCypher Voice and Chat system
