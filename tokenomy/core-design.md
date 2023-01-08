@@ -4,21 +4,9 @@ description: Core Economic Design
 
 # Core Design
 
-### The Problem
-
-Gaming industry problems&#x20;
-
-Station ZeroX aim to&#x20;
-
 ### A decentralized ecosystem
 
 Unlike current traditional game industry in which capital is accrued by a central authority which control game development, mechanics and policies. Station Zero-X aim to build an ecosystem of incentivized key decision makers around games.&#x20;
-
-Each reality's three level of government - Federal, territorial and municipal - Provide their residents with a wealth of services and programs. Governments (reality leader) collect player's tax dollars and return them in the form of security, city expansion, health care to NPCs and residents by building hospitals, roads and highways, and numerous other social benefits.
-
-However, leaders have full ability to set negative rates (lending money instead of collecting taxes) or 100% tax rates (complete communism).&#x20;
-
-
 
 The grand goal of governance is to be:
 
@@ -35,8 +23,6 @@ The grand goal of governance is to be:
 6. **Accessibility.** Games should be free-to-play with no barrier of entry. (No NFTs purchases required)
 7. **Scalable Architecture.** Games architecture should be scaled easily.
 8. **Agile development.** Emerging game developer should build around players feedback.
-
-###
 
 
 

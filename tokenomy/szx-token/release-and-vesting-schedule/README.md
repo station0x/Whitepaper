@@ -4,7 +4,7 @@ description: Station Zero X Governance Token Vesting Schedule
 
 # Release and Vesting Schedule
 
-SZX will be release in a pre-determined schedule which lasts for 60 months from the first Token Generation Event (TGE) on 31th Dec 2022, 12pm GMT.
+SZX will be release in a pre-determined schedule which lasts for 60 months from the first Token Generation Event (TGE) on 1st March, 2023, 12pm GMT.
 
 The initial circulating supply is set to 3,516,667 SZX - **2.67%** of the total supply and will be released gradually each month.
 

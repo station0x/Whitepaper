@@ -16,5 +16,5 @@ Encounter has picked up **+2500 players** since its alpha launch and is growing.
 
 
 
-
+<figure><img src="../../.gitbook/assets/Home (1).png" alt=""><figcaption></figcaption></figure>
 

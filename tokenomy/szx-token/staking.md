@@ -18,9 +18,10 @@ Staking as a mechanism "in moderate usage" did a good job of absorbing market sh
 
 ### First-In Last-Out Staking Model
 
-We propose a new type of staking where stakers can unstake anytime but are required to pay an exit taxation fee that goes back to the other stakers. 80% of the unstake fees goes back directly as an incentive to other stakers, while the remaining 20% is sent to the treasury.
+We propose a new type of staking where stakers can unstake anytime but are required to pay an exit taxation fee that goes back to the other stakers.&#x20;
 
-
+* 80% of the unstake fees goes back directly as an incentive to other stakers,&#x20;
+* Remaining 20% is sent to the treasury.
 
 ### Unstaking Progressive Taxation
 

@@ -4,7 +4,7 @@ description: 5v5 strategic first-person shooter built with Unreal Engine 5
 
 # 🔫 FinalCypher
 
-<figure><img src="../../.gitbook/assets/image 5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image 5.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image 6.png" alt=""><figcaption></figcaption></figure>
 

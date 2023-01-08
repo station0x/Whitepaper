@@ -9,8 +9,8 @@
 ## 🎮 Games And Technology
 
 * [🚀 Encounter](games-and-technology/encounter/README.md)
-  * [Gameplay](games-and-technology/encounter/gameplay.md)
-  * [Spaceships](games-and-technology/encounter/spaceships.md)
+  * [Gameplay](games-and-technology/encounter/gameplay/README.md)
+  * [Spaceships](games-and-technology/encounter/gameplay/spaceships.md)
   * [Economy and Manufacturing](games-and-technology/encounter/economy-and-manufacturing.md)
   * [Community and Statistics](games-and-technology/encounter/community-and-statistics.md)
 * [🔫 FinalCypher](games-and-technology/finalcypher/README.md)
@@ -22,7 +22,7 @@
 
 ## 💰 Tokenomy
 
-* [The current Problems](tokenomy/the-current-problems.md)
+* [The current Problems](tokenomy/preface.md)
 * [Core Design](tokenomy/core-design.md)
 * [$SZX - Station Zero X Token](tokenomy/szx-token/README.md)
   * [Token Distribution](tokenomy/szx-token/token-distribution.md)
@@ -35,9 +35,9 @@
     * [Team](tokenomy/szx-token/release-and-vesting-schedule/team.md)
     * [Private Investors](tokenomy/szx-token/release-and-vesting-schedule/private-investors.md)
     * [Community Incentives and Rewards](tokenomy/szx-token/release-and-vesting-schedule/community-incentives-and-rewards.md)
-* ["FILO" Staking Model](tokenomy/filo-staking-model.md)
-* [Protocol Owned Liquidity](tokenomy/protocol-owned-liquidity.md)
-* [Profitability and Revenue](tokenomy/profitability-and-revenue.md)
+* ["FILO" Staking Model](tokenomy/szx-token/staking.md)
+* [Protocol Owned Liquidity](tokenomy/szx-token/protocol-owned-liquidity.md)
+* [Profitability and Revenue](tokenomy/profitability-and-revenue/README.md)
 * [Game Domestic Economy](tokenomy/game-domestic-economy.md)
 
 ## 🧑⚖ Governance

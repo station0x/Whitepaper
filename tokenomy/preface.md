@@ -2,7 +2,7 @@
 
 ## Problem
 
-Aside from commonly known current [centralized games](the-current-problems.md#traditional-gaming) architectures flaws, current solutions ([**GameFi**](the-current-problems.md#gamefi)) also lack core features and are prone to fundamental mistakes.
+Aside from commonly known current [centralized games](preface.md#traditional-gaming) architectures flaws, current solutions ([**GameFi**](preface.md#gamefi)) also lack core features and are prone to fundamental mistakes.
 
 #### Our take on GameFi
 

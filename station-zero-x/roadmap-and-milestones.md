@@ -38,54 +38,57 @@
 **Product:**
 
 * [x] Game Launcher/Patcher
-* [x] Closed alpha for early testers.
-* [ ] 5 Weapons
-* [ ] Character abilities
-* [ ] First game mode: Hacking scenario
+* [x] Client and Server CI/CD
+* [x] The closed alpha for early testers.
 
 **Business:**
 
 * [x] Partner with Fantom
 * [ ] Fundraising (Seed Round)
 
-## Q1 - 2023:  FinalCypher Beta Release
+## Q1 - 2023:  FinalCypher Internal Alpha Release
 
 **Product:**
 
-* [ ] K2E: Leaderboard, battle pass, and ranking system
-* [ ] Weapon skin NFTs
-* [ ] Non-transferable token rewards
-* [ ] Game skins store
-* [ ] New characters
-* [ ] New Weapons&#x20;
-
-
+* [ ] First game mode: Hacking scenario
+* [ ] Character Abilities
+* [ ] 5 Weapons
+* [ ] Enhancing Environment
+* [ ] Enhancing Client/Server Perfomance
 
 **Business:**
 
 * [ ] Hiring focus: Artists & Engineers
 * [ ] Launching Station Zero X DAO and Start Hiring
 
-## Q2, Q3 - 2023: FinalCypher Improvements:&#x20;
+## Q2 - 2023: FinalCypher Improvements
 
-**Product:**
+* [ ] K2E: Leaderboard, battle pass, and ranking system
+* [ ] Matches History
+* [ ] New characters
+* [ ] New Weapons&#x20;
+* [ ] Lobby and friends system
 
-* [ ] New game modes
-* [ ] New maps
+## Q3 - 2023: FC Public Launch & Governance Launch
+
+* [ ] Skins Marketplace
+* [ ] Non-transferable token rewards
+* [ ] Weapon skin NFTs
+* [ ] Web3 Logic
 * [ ] Expanding NFT cosmetics (player cards, titles, weapon accessories, etc)
-* [ ] Enable reward token transferability
+
+## Q4 - 2023: Encounter Manufacturing & FC Marketing
+
+* [x] Open the tokens transferability
+* [ ] Launch Encounter Factory
+* [ ] Launch Encounter Refinery
+* [ ] FinalCypher Voice and Chat system
+* [ ] Enable FinalCypher reward token transferability
 
 **Business:**
 
 * [ ] Marketing focus: streamer sponsorships
 * [ ] Partnerships & collaborations
-
-## Q3 - 2023:&#x20;
-
-* [ ] Encounter Contracts&#x20;
-* [ ] Open the tokens transferability
-* [ ] Launch the Factory
-* [ ] Launch the Refinery
 
 
 
