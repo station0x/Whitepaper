@@ -5,3 +5,5 @@ FinalCypher Internal Testing Footage
 {% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=vMYKgZiMh_o" %}
+FinalCypher First Map Walkthrough
+{% endembed %}

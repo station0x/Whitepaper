@@ -8,6 +8,9 @@ description: The Sustainable, Ponzi-resistant and Decentralized ecosystem of SZX
 
 <figure><img src="../.gitbook/assets/Revenue Model.drawio.svg" alt=""><figcaption></figcaption></figure>
 
+Station Zero X ecosystem is designed to the following things in mind:&#x20;
 
-
-through game theoretical framework built on incentivizing the system benefits and penalize and sole actors and malicious participants who are derived through greed to eliminate public harm
+* Funnel the games-produced speculative value toward the governance token
+* Penalize greedy-stakers and reward the most loyal stakeholders through mid-to-long incentives, unstaking taxation fee that goes back to the loyal stakers.
+* Ensure both sustainability and accessibility of all Station Zero X games.
+* Democratize building through the decentralized modding approach to game development.

@@ -1,6 +1,10 @@
 # Technology
 
-FinalCypher utilizes cutting edge technologies to achieve:&#x20;
+FinalCypher utilizes state-of-the-art technologies to achieve:&#x20;
 
+* Highly-immersive experiences
 * Scalability for mass adoption
-* &#x20;
+* Assets decentralizations
+
+This is done tro
+
