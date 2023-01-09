@@ -13,17 +13,7 @@
 * [x] Launching Encounter ranking, leaderboard, and P2E
 * [x] &#x20;Launching the first phase of the economy, play to earn with non-transferable tokens&#x20;
 
-## Q2 - 2022: FinalCypher
-
-* [x] We started working on FPS game (the first networked game on the market)
-* [x] Core FPS mechanics
-* [x] 5 unique game characters
-* [x] First map
-* [x] Dedicated Multiplayer Server
-* [x] Matchmaking
-* [x] Fully functional internal build
-
-## Q3 - 2022: FinalCypher
+## Q2, Q3 - 2022: FinalCypher
 
 * [x] We started working on an FPS game (the first networked game on the market)
 * [x] Core FPS mechanics
@@ -32,6 +22,8 @@
 * [x] Dedicated Multiplayer Server
 * [x] Matchmaking
 * [x] Fully functional internal build
+
+
 
 ## Q4 - 2022: Closed alpha stage
 
@@ -54,7 +46,7 @@
 * [ ] Character Abilities
 * [ ] 5 Weapons
 * [ ] Enhancing Environment
-* [ ] Enhancing Client/Server Perfomance
+* [ ] Enhancing Client/Server Performance
 
 **Business:**
 
