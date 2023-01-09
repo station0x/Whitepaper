@@ -6,9 +6,9 @@ description: What is Station Zero X ?
 
 Station Zero X is a web3 gaming studio on a mission to bring gaming adoption to the blockchain. We develop high-tier games on top of blockchain technology.
 
-The gaming industry is huge, crypto games aren't yet. Our key insight is: **gamers expect more by buying less.** Existing crypto games lack core game value propositions while limiting access with high paywalls.
+The gaming industry is huge, crypto games aren't yet. Our key insight is: **gamers expect more from buying less.** Existing crypto games lack core game value propositions while limiting access with high paywalls.
 
-We combine the best of both worlds by creating competitive, sustainable and free crypto games. Our go-to-market strategy is to maximize adoption by eliminating paywalls from our games. We profit from cosmetics in-game purchases.
+We combine the best of both worlds by creating competitive, sustainable and free crypto games. Our go-to-market strategy is to maximize adoption by eliminating paywalls from our games. We profit from cosmetic in-game purchases.
 
 ## About
 
