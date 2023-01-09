@@ -1,5 +1,5 @@
 ---
-description: Station Zero X Governance Token [WIP]
+description: Station Zero X Governance Token
 ---
 
 # $SZX - Station Zero X Token
